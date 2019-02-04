@@ -26,7 +26,7 @@ Now that we have set the variables to their corresponding values, what is left i
 
 In this case, since we defined <strong> a = 3 </strong>, it will definitely give the output of <strong>"a is smaller than b"</strong>. However by changing the value of "a" to be bigger than the value of "b" will give the <strong>else</strong> output. <strong>Something to remember</strong> is that the <strong>colon(:)</strong> is used to determine the start of the function from a statement which in this case is the <strong>if else statement</strong>.
 
-Okay, now that we got that covered, the next question is, how are we going to implement more than <strong>ifs</strong>? You could make multiple if statements but that would be tedious. Instead we will be using </strong>elif</strong> which stands for <strong> else if</strong>. Look at the example below;
+Okay, now that we got that covered, the next question is, how are we going to implement more than one <strong>ifs</strong>? You could make multiple if statements but that would be tedious. Instead we will be using <strong>elif</strong> which stands for <strong> else if</strong>. Look at the example below;
 
     a = 5
     b = 6
